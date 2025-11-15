@@ -1,0 +1,12 @@
+{
+  "app_title":"ECU Tuning Pro",
+  "monitor":"Monitoring",
+  "mapping":"Mapping",
+  "flashing":"Flashing",
+  "bluetooth":"Bluetooth",
+  "settings":"Settings",
+  "monitor_title":"Real-time Monitor",
+  "mapping_title":"Mapping Editor",
+  "flashing_title":"ECU Flashing",
+  "bt_title":"Bluetooth Devices"
+}

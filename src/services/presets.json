@@ -1,0 +1,7 @@
+{
+  "langsam_kuda": {"fuel":3,"ign":-2},
+  "dromben": {"fuel":5,"ign":-1},
+  "helikopter": {"fuel":4,"ign":-3},
+  "backfire": {"fuel":10,"ign":-8},
+  "drodot": {"fuel":6,"ign":-4}
+}

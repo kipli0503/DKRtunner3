@@ -1,0 +1,12 @@
+{
+  "app_title":"ECU Tuning Pro",
+  "monitor":"Pantau",
+  "mapping":"Mapping",
+  "flashing":"Flashing",
+  "bluetooth":"Bluetooth",
+  "settings":"Pengaturan",
+  "monitor_title":"Pantauan Real-time",
+  "mapping_title":"Editor Mapping",
+  "flashing_title":"Flashing ECU",
+  "bt_title":"Perangkat Bluetooth"
+}
